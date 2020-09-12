@@ -1,6 +1,4 @@
 # gitExercise
-Github Exercise
-<br />
 First feature - Numx2:
 <br />
 multiples the number(x) by itself.
