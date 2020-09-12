@@ -1,4 +1,4 @@
-# gitExercise
+# Github Exercise
 First feature - Numx2:
 <br />
 <br />
