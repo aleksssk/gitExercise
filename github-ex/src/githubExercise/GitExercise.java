@@ -2,6 +2,8 @@ package githubExercise;
 
 public class GitExercise {
 
+	//comment
+	
 	//first feature (numx2 branch)
 	public int NumX2(int x) {
 		return x*x;
