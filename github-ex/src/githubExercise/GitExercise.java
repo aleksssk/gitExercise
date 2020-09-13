@@ -9,7 +9,6 @@ public class GitExercise {
 	
 	//second feature (numx3 branch)
 	public int NumX3(int x) {
-		//TODO
-		return x;
+		return x*x*x;
 	}
 }
